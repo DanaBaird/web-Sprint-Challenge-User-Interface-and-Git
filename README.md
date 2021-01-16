@@ -32,15 +32,7 @@ Demonstrate your understanding of this week's concepts by answering the followin
 
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your Team Lead
 
-1. If you were to describe semantic HTML to the next cohort of students, what would you say?
-
-2. Name two big differences between ```display: block;``` and ```display: inline;```.
-
-3. What are the 4 areas of the box model?
-
-4. While using flexbox, what axis does the following property work on: ```align-items: center```?
-
-5. Explain why git is valuable to a team of developers.
+1-If you were to describe semantic HTML to the next cohort of students, what would you say? 1-.a Semantic HTML elements are those that clearly describe their meaning in a human- and machine-readable way. Elements such as <header> , <footer> and <article> are all considered semantic because they accurately describe the purpose of the element and the type of content that is inside them 2-Name two big differences between display: block; and display: inline;. 2.a display: block means that the element is displayed as a block, as paragraphs and headers have always been. A block has some whitespace above and below it and tolerates no HTML elements next to it, except when ordered otherwise (by adding a float declaration to another element, for instance). display: inline means that the element is displayed inline, inside the current block on the same line. Only when it's between two blocks does the element form an 'anonymous block', that however has the smallest possible width 3-What are the 4 areas of the box model? 3.a content, padding, border, and margin 4-While using flexbox, what axis does the following property work on: align-items: center? 4.a align-items: center; The flexbox items are aligned at the center of the cross axis. By default, the cross axis is vertical. This means the flexbox items will be centered vertically. 5-Explain why git is valuable to a team of developers. 5.a One of the biggest advantages of Git is its branching capabilities. Unlike centralized version control systems, Git branches are cheap and easy to merge. This facilitates the feature branch workflow popular with many Git users. Feature branches provide an isolated environment for every change to your codebase
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
